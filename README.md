@@ -2,7 +2,7 @@
 
 ## Hey
 
-- 🔭 I received my bachelor degree in Computer Science from [NUAA](http://www.nuaa.edu.cn/) in 2020.
+- 😄 I received my bachelor degree in Computer Science from [NUAA](http://www.nuaa.edu.cn/) in 2020.
 - 🔭 I’m currently a master student at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
 
 
