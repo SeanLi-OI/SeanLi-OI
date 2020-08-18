@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a master student at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
 - 📫 I received my bachelor degree in Computer Science from [NUAA](http://www.nuaa.edu.cn/) in 2020.
-- 💬 I worked as a software engineer intern at [Bytedance](www.bytedance.com) in 2019.12~2020.5.
+- 💬 I worked as a software engineer intern at [Bytedance](http://www.bytedance.com) in 2019.12~2020.5.
 
 <!--
 **SeanLi-OI/SeanLi-OI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
