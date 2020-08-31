@@ -4,9 +4,9 @@
 
 ### About Me 😄
 
-- 🔭 I’m currently a master student at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
+- 🔭 I’m currently a master candidate at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
 - 📫 I received my bachelor degree in Computer Science from [NUAA](http://iao.nuaa.edu.cn/) in 2020.
-- 💬 I worked as a software engineer intern at [Bytedance](http://www.bytedance.com) in 2019.12~2020.5.
+- 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me.
 
 <!--
 **SeanLi-OI/SeanLi-OI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
