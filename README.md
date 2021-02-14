@@ -5,7 +5,7 @@
 ### About Me 😄
 
 - 🔭 I’m currently a master candidate at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
-- 📫 I received my bachelor degree in Computer Science from [NUAA](http://iao.nuaa.edu.cn/) in 2020.
+- 📫 I received my bachelor degree in Computer Science and Technology from [CCST](http://cs.nuaa.edu.cn/), [NUAA](http://iao.nuaa.edu.cn/) in 2020.
 - 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me.
 
 <!--
