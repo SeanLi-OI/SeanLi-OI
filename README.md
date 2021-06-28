@@ -1,12 +1,10 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SeanLi-OI&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SeanLi-OI&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
 
 ### About Me 😄
 
-- 🔭 I’m currently a master candidate at [ACS](http://acs.ict.ac.cn/) in [ICT CAS](http://www.ict.ac.cn/).
-- 📫 I received my bachelor degree in Computer S&T from [CCST](http://cs.nuaa.edu.cn/), [NUAA](http://iao.nuaa.edu.cn/) in 2020.
-- 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me.
+
 
 <!--
 **SeanLi-OI/SeanLi-OI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +22,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Li Xiang
+
+![](https://komarev.com/ghpvc/?username=SeanLi-OI&color=yellowgreen)
+
+🖐️Hi, there!
+
+## 💻 About Me
+- 🔭 I’m currently a master candidate at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
+- 📫 I received my bachelor degree in Computer Science and Technology from [Colledge of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
+- 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me.
+
+## 👦 Know more things about me
+
+- ❓My hobbies ?
+    - 💻 programming
+    - 🎮 playing games, e.g. CS:GO 😙
+    - 📝 Algorithm Contest
+
+- 🔬 Research ?
+    - High Performance Computing
+    - CPU Cache Replacement Policy (for now)
+
+- ✉️ Contact me
+    - :boy: personal: lixiang99410@gmail.com
+    - 🔭 research & work: lixiang20g@ict.ac.cn
+    
+
+[![Xiang Li's github stats](https://github-readme-stats.vercel.app/api?username=SeanLi-OI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
