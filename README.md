@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 💻 About Me
 - 🔭 I’m currently a master candidate at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
 - 📫 I received my bachelor degree in Computer Science and Technology from [College of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
-- 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me.
+<!-- - 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me. -->
 
 ## 👦 Know more things about me
 
