@@ -54,6 +54,6 @@ Here are some ideas to get you started:
     - 🔭 research & work: lixiang20g@ict.ac.cn
     
 
-[![Xiang Li's github stats](https://github-readme-stats.vercel.app/api?username=SeanLi-OI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiang Li's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=SeanLi-OI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
