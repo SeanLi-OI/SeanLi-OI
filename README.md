@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - ❓My hobbies ?
     - 💻 programming
-    - 🎮 playing games, e.g. CS:GO 😙
+    - 🎮 playing games, e.g. CS:GO, HOI3 😙
     - 📝 Algorithm Contest
 
 - 🔬 Research ?
