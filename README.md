@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a master candidate at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
 - 📫 I received my bachelor degree in Computer Science and Technology from [College of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
 <!-- - 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me. -->
-- 🌱 I have been an SWE intern of AML@ByteDance for 6 months, improving speed and stability of distributed deep learning training engine for sparse network.
+- 🌱 I have been an SWE intern of AML@ByteDance for 6 months, improving speed and stability of distributed deep learning training engine for sparse model.
 - ✨ I have also been an SWE intern of NBU@Google for 15 weeks, adding a new module to the probe system of internal corp network.
 
 ## 👦 Know more things about me
