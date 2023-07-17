@@ -31,27 +31,29 @@ Here are some ideas to get you started:
 🖐️Hi, there!
 
 ## 💻 About Me
-- 🔭 I’m currently a master candidate at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
-- 📫 I received my bachelor degree in Computer Science and Technology from [College of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
+- 🙋‍♂️ I'm currently working at AI-Engine(智能引擎事业部)@Alibaba, developing on distributed deep learning training engine for sparse/LLM model.
+- 👨‍🎓 I received my master degree in Computer Technology (Direction: Computer Architecture) at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/) in 2023.
+- 🧑‍🎓 I received my bachelor degree in Computer Science and Technology from [College of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
 <!-- - 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me. -->
-- 🌱 I have been an SWE intern of AML@ByteDance for 6 months, improving speed and stability of distributed deep learning training engine for sparse model.
-- ✨ I have also been an SWE intern of NBU@Google for 15 weeks, adding a new module to the probe system of internal corp network.
+- 👷‍♂️ I have been an SWE intern of AML@ByteDance for 6 months, improving speed and stability of distributed deep learning training engine for sparse model.
+- 🧑‍🏭 I have also been an SWE intern of NBU@Google for 15 weeks, adding a new module to the probe system of internal corp network.
 
 ## 👦 Know more things about me
 
 - ❓My hobbies ?
-    - 💻 programming
-    - 🎮 playing games, e.g. CS:GO, HOI3 😙
+    - 💻 Programming
+    - 🎮 Playing games, e.g. CS:GO, HOI3 😙
+    - 📷 Photography
     - 📝 Algorithm Contest
 
-- 🔬 Research ?
-    - High Performance Computing
-    - Mobile SoC Cache Replacement Policy (for past two years)
-    - Define and recognize memory access pattern (now)
+- 🔬 Research  ?
+    - High Performance Computing in Deep Learning Training Engine (now)
+    - Define and recognize memory access pattern (2022~2023)
+    - Mobile SoC Cache Replacement Policy (2020~2021)
 
 - ✉️ Contact me
-    - :boy: personal: lixiang99410@gmail.com
-    - 🔭 research & work: lixiang20g@ict.ac.cn
+    - 👦 personal: lixiang99410@gmail.com
+    - 🔭 work: linjian.lx@alibaba-inc.com
     
 
 [![Xiang Li's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=SeanLi-OI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
