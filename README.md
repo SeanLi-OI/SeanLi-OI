@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 🖐️Hi, there!
 
 ## 💻 About Me
-- 🙋‍♂️ I'm currently working at AI-Engine(智能引擎事业部)@Alibaba, developing on distributed deep learning training engine for LLM/sparse model. (mainly working on internal version of [Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) and [x-deeplearning](https://github.com/alibaba/x-deeplearning))
+- 🙋‍♂️ I'm currently working at AI-Engine(智能引擎事业部)@Alibaba, developing on distributed deep learning training engine for LLM/sparse model. (focused on internal versions of [ROLL](https://github.com/alibaba/ROLL) and  [Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA), with past experience on the internal version of [x-deeplearning](https://github.com/alibaba/x-deeplearning))
 - 👨‍🎓 I received my master degree in Computer Technology (Direction: Computer Architecture) at [Research Center for Advanced Computer System (ACS)](http://acs.ict.ac.cn/) in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/) in 2023.
 - 🧑‍🎓 I received my bachelor degree in Computer Science and Technology from [College of Computer Science and Technology (CCST)](http://cs.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics (NUAA)](http://www.nuaa.edu.cn/) in 2020.
 <!-- - 🌱 Here is my [resume](https://seanli-oi.github.io/resume.pdf), please feel free to contact me. -->
